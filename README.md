@@ -4,7 +4,7 @@
 Hardware platform to harvest 13450 lithium-ion cells from disposable vape batteries and recycle them into a smart IoT WiFi-enabled USB battery pack with a web-controlled dashboard UI.
 ![pic of final product working powered by pack](https://github.com/bogonissATWIT/RVBP/assets/70970914/273eec82-f4cd-47d2-b69d-093881fed283)
 #### Platform Overview:
-- 2 x USB-A Outputs (5A Max)
+- 2 x USB-A Outputs
 - ESP32_DEVKITC_32D Microcontroller
 - 21V@1A DC Wall Charger w/ indicator LED
 - 555 Power LED circuit
